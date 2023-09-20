@@ -31,3 +31,8 @@ public class Arrays {
 ```
 
 > AVISO: Esto debe escribirse en un terminal.
+
+
+>```javascript
+>var numero = 5
+>```
