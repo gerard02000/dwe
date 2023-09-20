@@ -5,7 +5,12 @@ Se verán los sigueinetes apartados:
 2.adssa
 3.dasdsa
 4.dasd
-5.dsadas
+5. ~~dsadas~~
+
+
+---
+
+
 
 ```java
 package ejercicios.com;
@@ -28,7 +33,26 @@ public class Arrays {
 	}	
 }
 
+
+
+
 ```
+
+
+---
+
+LENGUAJE	|	INVENTOR	|	AÑO
+
+----------------|-----------------------|----------------
+Javascript      | James			| 1995
+Java     	| James			| 1995
+phyton     	| Fan de montyphyton	| 2312321
+---
+
+
+
+
+
 
 > AVISO: Esto debe escribirse en un terminal.
 
