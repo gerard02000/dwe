@@ -3,11 +3,10 @@
 
 ![Imagen coche](assets/coche1.jpeg)
 
-![Imagen coche](assets/coche2.jpeg)
 
-![Imagen coche](assets/coche3.jpeg)
 
-![Imagen coche](assets/coche4.jpeg)
+
+
 
 
 Se verán los sigueinetes apartados:
@@ -49,6 +48,12 @@ public class Arrays {
 
 ```
 
+
+
+![Imagen coche](assets/coche2.jpeg)
+
+
+
 > Tabla:Ejemplo tabla.
 ---
 
@@ -60,7 +65,14 @@ phyton     	| Fan de montyphyton	| 2312321
 ---
 
 
+![Imagen coche](assets/coche3.jpeg)
 
+
+
+
+
+
+![Imagen coche](assets/coche4.jpeg)
 
 
 
