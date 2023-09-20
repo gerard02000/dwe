@@ -10,6 +10,7 @@ Se verán los sigueinetes apartados:
 
 ---
 
+> Ejemplo:codigo Java.
 
 
 ```java
@@ -38,11 +39,10 @@ public class Arrays {
 
 ```
 
-
+> Tabla:Ejemplo tabla.
 ---
 
 LENGUAJE	|	INVENTOR	|	AÑO
-
 ----------------|-----------------------|----------------
 Javascript      | James			| 1995
 Java     	| James			| 1995
@@ -54,7 +54,7 @@ phyton     	| Fan de montyphyton	| 2312321
 
 
 
-> AVISO: Esto debe escribirse en un terminal.
+> Ejemplo:codigo Javascript.
 
 
 >```javascript
