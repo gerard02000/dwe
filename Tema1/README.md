@@ -2,10 +2,10 @@
 
 Se verán los sigueinetes apartados:
 1.sadsa
-1.adssa
-1.dasdsa
-1.dasd
-1.dsadas
+2.adssa
+3.dasdsa
+4.dasd
+5.dsadas
 
 ```java
 package ejercicios.com;
